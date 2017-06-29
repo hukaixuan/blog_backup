@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: hukx.michael
 subtitle:
-description:
-author: John Doe
+description: The blog of hukx.michael
+author: hukx.michael
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://hukaixuan.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,10 +63,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: vexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/hukaixuan/hukaixuan.github.io.git
+
+# Links
+# weibo_username: your_weibo_account
+twitter_username: hukx_michael
+github_username: hukaixuan
+zhihu_username: hukx.michael
+
